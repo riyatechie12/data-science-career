@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e6466f2e-5b16-4723-8af9-01ad6e199fc4)
 # Data Science and Machine Learning Career
 
 ---------
@@ -661,6 +662,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [28 MySQL interview questions from JavaTPoint.com](http://www.javatpoint.com/mysql-interview-questions)
 - [40 Basic MySQL Interview Questions with Answers](http://www.testingbrain.com/interview/mysql-interview-questions.html)
 - [Top 50 MySQL Interview Questions & Answers from Career Guru](http://career.guru99.com/top-50-mysql-interview-questions-answers/)
+- [Top 117 SQL Interview Questions and Answers for 2024](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
 
 **SQL**
 
